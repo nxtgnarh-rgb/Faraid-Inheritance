@@ -54,7 +54,3 @@ After completing a transaction via Paystack, enter your transaction reference co
 What engine is the app built with?
 
 The application is built utilizing the Godot Engine for optimized multi-platform deployment.
-
-Why is this repository private?
-
-This repository is kept private to protect proprietary application logic, UI design implementations, and secure payment/backend integration parameters.
